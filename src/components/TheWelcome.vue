@@ -185,18 +185,17 @@ const searchJobs = async () => {
         <div class="flex flex-wrap justify-between">
           <div class="w-full mb-6 md:w-1/3 md:mb-0">
             <div class="mb-5">
-              <h5 class="mb-2 text-lg font-bold">NovaJobs</h5>
+              <h5 class="mb-2 text-lg font-bold">Effectual Jobs</h5>
             </div>
             <p class="text-gray-400">
-              <span class="font-bold">Address:</span> Adenike, Ogbomoso, Oyo
-              state, Nigeria.
+              <span class="font-bold">Address:</span>Oyo State, Nigeria.
             </p>
             <p class="text-gray-400">
               <span class="font-bold">Email:</span>
-              aderibigbetoluwani5@gmail.com
+              ayomideolugbile29@gmail.com
             </p>
             <p class="text-gray-400">
-              <span class="font-bold">Phone:</span> +2349032317059
+              <span class="font-bold">Phone:</span> +2349013284694
             </p>
           </div>
 
@@ -256,7 +255,7 @@ const searchJobs = async () => {
 
         <div class="pt-4 mt-8 border-t border-gray-700">
           <p class="text-center text-gray-500">
-            &copy; {{ new Date().getFullYear() }} NovaJobs. All rights reserved.
+            &copy; {{ new Date().getFullYear() }} EffectualJob. All rights reserved.
           </p>
         </div>
       </div>

@@ -9,7 +9,7 @@
       >
         <span
           class="self-center text-sm font-bold md:text-xl whitespace-nowrap dark:text-black"
-          ><span class="text-blue-700">Nova</span>Jobs</span
+          ><span class="text-blue-700">Effectual</span>Jobs</span
         >
       </RouterLink>
       <div class="flex items-center space-x-6 rtl:space-x-reverse">
